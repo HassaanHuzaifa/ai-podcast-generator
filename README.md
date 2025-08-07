@@ -205,6 +205,3 @@ PLAYHT_USER_ID='your_playht_user_id'
 
 Make sure to save the changes to the `.env` file.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
