@@ -9,6 +9,7 @@ AI Podcast Generator is a AI powered software that automatically generates podca
 - Supports multiple voices from Play.ht API.
 - Requires minimal setup and configuration.
 
+
 ## Examples
 
 [**Soundcloud Playlist 📻**](https://soundcloud.com/aastroza/sets/ai-podcast-generator?si=b10c28990e5f424eae907075448ddaf8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
